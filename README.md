@@ -5,7 +5,7 @@
 
 |   文章名称   | 代码路径     |
 | ---- | ---- |
-|  [python实现grpc](https://tenqaz.github.io/pages/f9d78c/)    |  grpc_examples/simple    |
+|  [python简单实现grpc](https://tenqaz.github.io/pages/f9d78c/)    |  grpc_examples/simple    |
 
 
 
