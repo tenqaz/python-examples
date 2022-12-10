@@ -1,11 +1,11 @@
 # python-examples
 
-本仓库用来存储案例，并且有配套文章讲解
+本仓库用来存储python使用的案例，部分案例配有文章讲解。
 
-
-|   文章名称   | 代码路径     |
-| ---- | ---- |
-|  [python简单实现grpc](https://tenqaz.github.io/pages/f9d78c/)    |  grpc_examples/simple    |
+| 案例            | 文章名称 | 代码路径               |
+|---------------|-------------------------------------------------------------|--------------------|
+| python使用grpc  | [python简单实现grpc](https://www.zhengwenfeng.com/pages/f9d78c/)  | grpc_examples/simple |
+| 使用协程实现生产者与消费者 |              |                    |
 
 
 
