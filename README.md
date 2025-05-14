@@ -6,7 +6,7 @@
 |---------------|-------------------------------------------------------------|--------------------|
 | python使用grpc  | [python简单实现grpc](https://www.zhengwenfeng.com/pages/f9d78c/)  | grpc_examples/simple |
 | 使用协程实现生产者与消费者 |              |                    |
-
+| redis分布式锁|  | base/redis_lock.py |
 
 
 ## 欢迎交流
